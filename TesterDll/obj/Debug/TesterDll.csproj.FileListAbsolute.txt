@@ -1,0 +1,5 @@
+C:\Users\Asus\Downloads\assembly\TesterDll\bin\Debug\TesterDll.dll
+C:\Users\Asus\Downloads\assembly\TesterDll\bin\Debug\TesterDll.pdb
+C:\Users\Asus\Downloads\assembly\TesterDll\obj\Debug\TesterDll.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Downloads\assembly\TesterDll\obj\Debug\TesterDll.dll
+C:\Users\Asus\Downloads\assembly\TesterDll\obj\Debug\TesterDll.pdb
