@@ -38,7 +38,7 @@ namespace AssemblyBrowser
         private void OpenHandler(object param)
         {
             OpenFileDialog dialog = new OpenFileDialog();
-            dialog.Filter = "(*.dll)|*.dll";
+            dialog.Filter = "(*.exe,*.dll)|*.exe;*.dll"; ;
             if (dialog.ShowDialog() == true)
             {
                 root.Clear();
